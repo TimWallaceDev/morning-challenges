@@ -1,0 +1,7 @@
+Alice + Don = 8
+Alice + 1
+Alice + Cindy = 5
+Alice + 1
+
+
+total = 15 minutes
